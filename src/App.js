@@ -5,7 +5,6 @@ import { FaQuoteRight } from 'react-icons/fa';
 import data from './data';
 
 /* eslint-disable */
-
 function App() {
   return <h2>slider project setup</h2>;
 }
